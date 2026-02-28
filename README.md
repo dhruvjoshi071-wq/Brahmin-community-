@@ -1,0 +1,2 @@
+This project is a large-scale, single-page HTML5 cultural documentation website dedicated to the history, philosophy, and traditions of the Brahmin community, with a central focus on Bhagwan Parashuram. The website is designed as a structured knowledge portal that presents Vedic heritage, scriptural foundations, and traditional systems in a scholarly and respectful format.
+The purpose of this project is to digitally preserve and present civilizational knowledge in an organized, accessible, and aesthetically refined manner.
